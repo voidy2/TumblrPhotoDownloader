@@ -1,0 +1,11 @@
+TumblrPhotoDownloader
+
+[Linux]
+bin/sbt
+> update
+> run
+
+[Windows]
+bin/sbt.bat
+> update
+> run
