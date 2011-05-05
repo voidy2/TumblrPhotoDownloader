@@ -5,7 +5,7 @@ bin/sbt
 > update
 > run
 
-[Windows]
-bin/sbt.bat
+[Windows(cmd.exe)]
+"bin/sbt.bat"
 > update
 > run
