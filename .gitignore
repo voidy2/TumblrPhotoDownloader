@@ -3,3 +3,6 @@ lib_managed/
 
 project/boot/
 project/plugins/project/
+
+image/
+config.yaml
